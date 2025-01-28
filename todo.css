@@ -1,0 +1,128 @@
+.judul{
+    justify-content: center;
+    align-items: center;
+    background-color: #dfdfdf;
+    margin-bottom: 0;
+    width: 70%;
+    margin: auto;
+}
+
+.container{
+    width: max-content;
+    margin: auto;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+.isi button{
+    background-color: orange;
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+
+
+}
+
+.isi{
+    padding-top: 20px;
+}
+
+.isi img{
+    width: 120px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 0px;
+}
+
+.isi input{
+    background-color: #fafafa;
+    outline: none;
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+    padding-left: 10px;
+    margin-left: 45px;
+    width: 250px;
+}
+
+.isi{
+    background-color:#dfdfdf;
+    height: 400px;
+    width: 350px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.latar-list{
+    width: 70%;
+    height: 75%;
+    background-color: #fafafa;
+    margin: auto;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.kotakasli{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.kotak2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 196, 0);
+}
+
+.tampungkotak{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    margin: 0;
+    position: relative;
+    right: 50px;
+}
+
+
+
+li{
+    padding: 6px;
+
+}
+
+.close:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.right-align {
+    text-align: right;
+    padding-right: 8px;
+}
+
+
+
